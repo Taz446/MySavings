@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Converter">Μετατροπεας</string>
+    <string name="MySavings">οι Οικονομιες μου</string>
+    <string name="Options">Επιλογες</string>
+    <string name="Home">Αρχικη</string>
+    <string name="chooseLanguage">Επιλογη γλωσσας</string>
+    <string name="English">Αγγλικα</string>
+    <string name="Greek">Ελληνικα</string>
+    <string name="Confirm">Επιβεβαιωση</string>
+    <string name="Exit">Εξοδος</string>
+    <string name="Add">Προσθεσε</string>
+    <string name="From">Απο:</string>
+    <string name="To">σε:</string>
+    <string name="Value">Αξια:</string>
+    <string name="Convert">Μετατροπη</string>
+    <string name="ConvertSavings">Μετατροπη Οικονομιων</string>
+    <string name="Back">Πισω</string>
+    <string name="Remove">Αφαιρεσε</string>
+    <string name="SavingsAdded">Προστεθηκαν Οικονομιες</string>
+    <string name="SavingsRemoved">Αφαιρεθηκαν Οικονομιες</string>
+    <string name="EnterValue">Εισαγετε Αξια</string>
+    <string name="Balance">: Το Υπολοιπο σας Ειναι:</string>
+    <string name="ConvertSuccess">Επιτυχης Μετατροπη</string>
+    <string name="ConvertFail">Αποτυχια Μετατροπης</string>
+</resources>
